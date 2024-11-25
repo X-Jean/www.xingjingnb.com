@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"><h1 		style="color:black"> 邢J的第一个网站 </h1>
+</html>
+<h2 style="color:blue"> 你的昵称 </h2>
+<input placeholder="输入你的昵称"/> <button onclick = "alert('注册成功')"> 确定 </button>
